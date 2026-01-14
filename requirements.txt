@@ -1,0 +1,6 @@
+llama-index
+farm-haystack
+fastapi
+uvicorn
+requests
+python-dotenv
