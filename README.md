@@ -1,5 +1,7 @@
 # Mental-Health-Chatbot
 A compassionate AI-powered chatbot designed to provide mental health support through intelligent conversation. Built with LangChain, FastAPI, and OpenAI's language models, this chatbot offers a safe space for users to discuss their mental health concerns with memory-aware conversations.
+
+
 ✨ Features
 
 Conversational Memory: Maintains context across sessions for personalized interactions
